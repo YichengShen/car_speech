@@ -2,9 +2,28 @@
 
 __all__ = ["index", "modules", "custom_doc_links", "git_url"]
 
-index = {"say_hello": "00_core.ipynb"}
+index = {"download_data": "00_Download_Data.ipynb",
+         "get_label": "04_Pipeline.ipynb",
+         "check_type": "01_Filename_Processing.ipynb",
+         "get_fnames": "01_Filename_Processing.ipynb",
+         "filter_fnames": "01_Filename_Processing.ipynb",
+         "show_data_count": "01_Filename_Processing.ipynb",
+         "get_noise_level": "01_Filename_Processing.ipynb",
+         "classify_noise_levels": "01_Filename_Processing.ipynb",
+         "noise_levels": "01_Filename_Processing.ipynb",
+         "load_fnames": "01_Filename_Processing.ipynb",
+         "shuffle_data": "04_Pipeline.ipynb",
+         "train_test_split": "04_Pipeline.ipynb",
+         "decode_audio": "04_Pipeline.ipynb",
+         "get_waveform_and_label": "04_Pipeline.ipynb",
+         "get_spectrogram": "04_Pipeline.ipynb",
+         "get_spectrogram_and_label_id_digits": "04_Pipeline.ipynb",
+         "get_spectrogram_and_label_id_letters": "04_Pipeline.ipynb",
+         "preprocess_dataset": "04_Pipeline.ipynb"}
 
-modules = ["core.py"]
+modules = ["download_data.py",
+           "fname_processing.py",
+           "pipeline.py"]
 
 doc_url = "https://YichengShen.github.io/car_speech/"
 

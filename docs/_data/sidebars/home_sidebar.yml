@@ -10,8 +10,32 @@ entries:
       title: Overview
       url: /
     - output: web,pdf
-      title: module name here
-      url: core.html
+      title: Data Download
+      url: Download_Data.html
+    - output: web,pdf
+      title: Filename Processing
+      url: Filename_Processing.html
+    - output: web,pdf
+      title: Data Augmentation
+      url: Data_Augmentation.html
+    - output: web,pdf
+      title: Train on MFCC
+      url: Train_on_MFCC.html
+    - output: web,pdf
+      title: Pipeline
+      url: Pipeline.html
+    - output: web,pdf
+      title: Training
+      url: Training.html
+    - output: web,pdf
+      title: 10-fold Cross Validation
+      url: Ten-fold_Cross_Validation.html
+    - output: web,pdf
+      title: Single Input Prediction
+      url: Single_Input_Prediction.html
+    - output: web,pdf
+      title: CarSpeech Classifier
+      url: CarSpeech_classifier.html
     output: web
     title: car_speech
   output: web

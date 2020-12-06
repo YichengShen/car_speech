@@ -1,6 +1,14 @@
 {
   "car_speech": {
     "Overview": "/",
-    "module name here": "core.html"
+    "Data Download": "Download_Data.html",
+    "Filename Processing": "Filename_Processing.html",
+    "Data Augmentation": "Data_Augmentation.html",
+    "Train on MFCC": "Train_on_MFCC.html",
+    "Pipeline": "Pipeline.html",
+    "Training": "Training.html",
+    "10-fold Cross Validation": "Ten-fold_Cross_Validation.html",
+    "Single Input Prediction": "Single_Input_Prediction.html",
+    "CarSpeech Classifier": "CarSpeech_classifier.html"
   }
 }
