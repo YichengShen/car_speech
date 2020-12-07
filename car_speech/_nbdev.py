@@ -19,6 +19,7 @@ index = {"download_data": "00_Download_Data.ipynb",
          "get_spectrogram": "04_Pipeline.ipynb",
          "get_spectrogram_and_label_id_digits": "04_Pipeline.ipynb",
          "get_spectrogram_and_label_id_letters": "04_Pipeline.ipynb",
+         "get_spectrogram_and_label_id_mixed": "04_Pipeline.ipynb",
          "preprocess_dataset": "04_Pipeline.ipynb"}
 
 modules = ["download_data.py",

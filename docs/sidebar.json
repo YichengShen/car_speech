@@ -6,7 +6,9 @@
     "Data Augmentation": "Data_Augmentation.html",
     "Train on MFCC": "Train_on_MFCC.html",
     "Pipeline": "Pipeline.html",
-    "Training": "Training.html",
+    "Training with Digits Data": "Training_digits.html",
+    "Training with Letters Data": "Training_letters.html",
+    "Training with Mixed Data": "Training_mixed.html",
     "10-fold Cross Validation": "Ten-fold_Cross_Validation.html",
     "Single Input Prediction": "Single_Input_Prediction.html",
     "CarSpeech Classifier": "CarSpeech_classifier.html"

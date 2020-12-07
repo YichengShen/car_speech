@@ -25,8 +25,14 @@ entries:
       title: Pipeline
       url: Pipeline.html
     - output: web,pdf
-      title: Training
-      url: Training.html
+      title: Training with Digits Data
+      url: Training_digits.html
+    - output: web,pdf
+      title: Training with Letters Data
+      url: Training_letters.html
+    - output: web,pdf
+      title: Training with Mixed Data
+      url: Training_mixed.html
     - output: web,pdf
       title: 10-fold Cross Validation
       url: Ten-fold_Cross_Validation.html
