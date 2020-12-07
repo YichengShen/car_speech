@@ -37,7 +37,7 @@ print('number of files:', len(filenames))
 See Notebook <strong>04_Pipeline</strong> for details. An example is provided at the end of that notebook.
 
 ## Training and Model Selection
-See Notebook <strong>03, 05, and 06</strong> for details.
+See Notebook <strong>03, 05, 06, 07 and 08</strong> for details.
 
 ## Results
 
@@ -45,17 +45,17 @@ See Notebook <strong>03, 05, and 06</strong> for details.
 
 | Fold 	| IDL 	| 35U 	| 35D 	| 55U 	| 55D 	| Average 	|
 |:-----:|:---:	|:---:	|:---:	|:---:	|:---:	|:-------:	|
-|   1  	|  75 	|   75 	|   61 	|     	|     	|         	|
-|   2  	|  77  	|   72 	|   72 	|     	|     	|         	|
-|   3  	|  69  	|   77 	|   66 	|     	|     	|         	|
-|   4  	|  70  	|   73 	|   67 	|     	|     	|         	|
-|   5  	|  80  	|   74 	|   66 	|     	|     	|         	|
-|   6  	|  78  	|   74 	|   62 	|     	|     	|         	|
-|   7  	|  77  	|   76 	|   71 	|     	|     	|         	|
-|   8  	|  77  	|   74 	|   58 	|     	|     	|         	|
-|   9  	|  81  	|   74 	|   58 	|     	|     	|         	|
-|  10  	|  74  	|   68 	|   71	|     	|     	|         	|
-| Avg. 	|  76  	|   74  |   65 	|     	|     	|         	|
+|   1  	|  85 	|    	|    	|     	|     	|         	|
+|   2  	|  80  	|    	|    	|     	|     	|         	|
+|   3  	|  81  	|    	|    	|     	|     	|         	|
+|   4  	|  78  	|    	|    	|     	|     	|         	|
+|   5  	|  84  	|    	|    	|     	|     	|         	|
+|   6  	|  85  	|    	|    	|     	|     	|         	|
+|   7  	|  83  	|    	|    	|     	|     	|         	|
+|   8  	|  77  	|    	|    	|     	|     	|         	|
+|   9  	|  80  	|    	|    	|     	|     	|         	|
+|  10  	|  87  	|    	|   	|     	|     	|         	|
+| Avg. 	|  82  	|       |    	|     	|     	|         	|
 
 <span style="color:red">TODO: Turn this into box plot</span>
 
@@ -79,14 +79,14 @@ See Notebook <strong>03, 05, and 06</strong> for details.
 
 | Fold 	| IDL 	| 35U 	| 35D 	| 55U 	| 55D 	| Average 	|
 |:----:	|:---:	|:---:	|:---:	|:---:	|:---:	|:-------:	|
-|   1  	|  50 	|     	|    	|     	|     	|         	|
-|   2  	|  54  	|     	|    	|     	|     	|         	|
-|   3  	|  50  	|     	|    	|     	|     	|         	|
-|   4  	|  48  	|     	|    	|     	|     	|         	|
-|   5  	|  55  	|     	|    	|     	|     	|         	|
-|   6  	|  48  	|     	|    	|     	|     	|         	|
-|   7  	|  52  	|     	|    	|     	|     	|         	|
-|   8  	|  55  	|     	|    	|     	|     	|         	|
-|   9  	|  45  	|     	|    	|     	|     	|         	|
-|  10  	|  47  	|     	|   	|     	|     	|         	|
-| Avg. 	|  50  	|     	|    	|     	|     	|         	|
+|   1  	|  53 	|     	|    	|     	|     	|         	|
+|   2  	|  53  	|     	|    	|     	|     	|         	|
+|   3  	|  57  	|     	|    	|     	|     	|         	|
+|   4  	|  60  	|     	|    	|     	|     	|         	|
+|   5  	|  56  	|     	|    	|     	|     	|         	|
+|   6  	|  56  	|     	|    	|     	|     	|         	|
+|   7  	|  58  	|     	|    	|     	|     	|         	|
+|   8  	|  60  	|     	|    	|     	|     	|         	|
+|   9  	|  57  	|     	|    	|     	|     	|         	|
+|  10  	|  54  	|     	|   	|     	|     	|         	|
+| Avg. 	|  56  	|     	|    	|     	|     	|         	|
