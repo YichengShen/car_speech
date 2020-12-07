@@ -10,6 +10,7 @@
     "Training with Letters Data": "Training_letters.html",
     "Training with Mixed Data": "Training_mixed.html",
     "10-fold Cross Validation": "Ten-fold_Cross_Validation.html",
+    "10-fold Cross Validation for Augmented Digits Data": "Ten-fold_Cross_Validation_Augmented.html",
     "Single Input Prediction": "Single_Input_Prediction.html",
     "CarSpeech Classifier": "CarSpeech_classifier.html"
   }
