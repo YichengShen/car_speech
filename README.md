@@ -57,6 +57,33 @@ See Notebook <strong>03, 05, 06, 07 and 08</strong> for details.
 |  10  	|  76  	|    78	|   76	|     87|  69  	|    77    	|
 | Avg. 	|  82  	|    80 |    76	|   80 	|  67  	|     77  	|
 
+```python
+Image("plots/accuracy_of_cnn_on_digits_dataset.png")
+```
+
+
+
+
+![png](docs/images/output_12_0.png)
+
+
+
+### 1a. 10-Fold CV Accuracy (%) of CNN on Augmented Digits Data
+
+| Fold 	| IDL 	| 35U 	| 35D 	| 55U 	| 55D 	| Average 	|
+|:-----:|:---:	|:---:	|:---:	|:---:	|:---:	|:-------:	|
+|   1  	|  68 	|  68  	|    	|  68  	| 64   	|        	|
+|   2  	|  66  	|  70 	|    	|  72  	| 64   	|        	|
+|   3  	|  65  	|  70  	|    	|  72  	| 64   	|        	|
+|   4  	|  67  	|  68  	|    	|  74  	| 63   	|        	|
+|   5  	|  63  	|  69  	|    	|  69  	| 61   	|       	|
+|   6  	|  64  	|  70  	|    	|  71  	| 62   	|        	|
+|   7  	|  67  	|  72  	|    	|  70   | 63   	|        	|
+|   8  	|  70  	|  68  	|    	|  72   | 61   	|        	|
+|   9  	|  71  	|  69  	|    	|  70   | 65   	|        	|
+|  10  	|  63  	|  75  	|   	|  67   | 60   	|        	|
+| Avg. 	|  66  	|  70   |    	|  70  	| 63   	|       	|
+
 <span style="color:red">TODO: Turn this into box plot</span>
 
 ### 2. 10-Fold CV Accuracy (%) of CNN on Letters Data
@@ -75,6 +102,17 @@ See Notebook <strong>03, 05, 06, 07 and 08</strong> for details.
 |  10  	|  54  	|  49  	|  44 	|  59  	|  41  	|    49    	|
 | Avg. 	|  57  	|  55  	|  47  	|  59  	|  43  	|    52    	|
 
+```python
+Image("plots/accuracy_of_cnn_on_letters_dataset.png")
+```
+
+
+
+
+![png](docs/images/output_18_0.png)
+
+
+
 ### 3. 10-Fold CV Accuracy (%) of CNN on Mixed Data
 
 | Fold 	| IDL 	| 35U 	| 35D 	| 55U 	| 55D 	| Average 	|
@@ -90,3 +128,14 @@ See Notebook <strong>03, 05, 06, 07 and 08</strong> for details.
 |   9  	|  59  	|  63  	|  56  	|  60  	|  48  	|  57      	|
 |  10  	|  56  	|  62  	|  57 	|  60  	|  43  	|  56      	|
 | Avg. 	|  61  	|  59  	|  54  	|  60  	|  47  	|  56      	|
+
+```python
+Image("plots/accuracy_of_cnn_on_mixed_dataset.png")
+```
+
+
+
+
+![png](docs/images/output_21_0.png)
+
+
