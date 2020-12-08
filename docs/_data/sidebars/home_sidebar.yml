@@ -37,6 +37,12 @@ entries:
       title: 10-fold Cross Validation
       url: Ten-fold_Cross_Validation.html
     - output: web,pdf
+      title: 10-fold Cross Validation for Augmented Digits Data
+      url: Ten-fold_Cross_Validation_Augmented.html
+    - output: web,pdf
+      title: Boxplot
+      url: Boxplot.html
+    - output: web,pdf
       title: Single Input Prediction
       url: Single_Input_Prediction.html
     - output: web,pdf
