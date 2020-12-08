@@ -72,19 +72,17 @@ Image("plots/accuracy_of_cnn_on_digits_dataset.png")
 
 | Fold 	| IDL 	| 35U 	| 35D 	| 55U 	| 55D 	| Average 	|
 |:-----:|:---:	|:---:	|:---:	|:---:	|:---:	|:-------:	|
-|   1  	|  68 	|  68  	|    	|  68  	| 64   	|        	|
-|   2  	|  66  	|  70 	|    	|  72  	| 64   	|        	|
-|   3  	|  65  	|  70  	|    	|  72  	| 64   	|        	|
-|   4  	|  67  	|  68  	|    	|  74  	| 63   	|        	|
-|   5  	|  63  	|  69  	|    	|  69  	| 61   	|       	|
-|   6  	|  64  	|  70  	|    	|  71  	| 62   	|        	|
-|   7  	|  67  	|  72  	|    	|  70   | 63   	|        	|
-|   8  	|  70  	|  68  	|    	|  72   | 61   	|        	|
-|   9  	|  71  	|  69  	|    	|  70   | 65   	|        	|
-|  10  	|  63  	|  75  	|   	|  67   | 60   	|        	|
-| Avg. 	|  66  	|  70   |    	|  70  	| 63   	|       	|
-
-<span style="color:red">TODO: Turn this into box plot</span>
+|   1  	|  68 	|  68  	|  67  	|  68  	| 64   	|  67      	|
+|   2  	|  66  	|  70 	|  69  	|  72  	| 64   	|  68      	|
+|   3  	|  65  	|  70  	|  67  	|  72  	| 64   	|  68      	|
+|   4  	|  67  	|  68  	|  68  	|  74  	| 63   	|  68      	|
+|   5  	|  63  	|  69  	|  68  	|  69  	| 61   	|  66     	|
+|   6  	|  64  	|  70  	|  68  	|  71  	| 62   	|  67      	|
+|   7  	|  67  	|  72  	|  68 	|  70   | 63   	|  68      	|
+|   8  	|  70  	|  68  	|  69  	|  72   | 61   	|  68      	|
+|   9  	|  71  	|  69  	|  66  	|  70   | 65   	|  68      	|
+|  10  	|  63  	|  75  	|  69 	|  67   | 60   	|  67      	|
+| Avg. 	|  66  	|  70   |  68  	|  70  	| 63   	|  68     	|
 
 ### 2. 10-Fold CV Accuracy (%) of CNN on Letters Data
 
@@ -109,7 +107,7 @@ Image("plots/accuracy_of_cnn_on_letters_dataset.png")
 
 
 
-![png](docs/images/output_18_0.png)
+![png](docs/images/output_17_0.png)
 
 
 
@@ -136,6 +134,6 @@ Image("plots/accuracy_of_cnn_on_mixed_dataset.png")
 
 
 
-![png](docs/images/output_21_0.png)
+![png](docs/images/output_20_0.png)
 
 
